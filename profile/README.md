@@ -1,23 +1,25 @@
 # Knights of Dev
-## Github group
 
-
+## description
 We make games :3
 
 🐴 The horses name is Gringolet 🐴
 
+## Team
+Members of team 
+Pitchfork
 
-Members of team: Pitchfork, notcomicX, 09creeps
+notcomicX 
 
-What were working on:
+O9creeps
 
-Pitchfork:
-  Starting development on Ghost detective game in godot
 
-O9creeps:
-  Working on merl for python
+## What were working on:
 
-notcomicX:
-  Nothing at the moment
+Pitchfork: Starting development on Ghost detective game in godot
+
+O9creeps: Working on merl for python
+
+notcomicX: Nothing at the moment
 
 
