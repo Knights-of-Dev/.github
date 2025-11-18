@@ -6,10 +6,7 @@ We make games :3
 🐴 The horses name is Gringolet 🐴
 
 
-Members of team:
-  Pitchfork
-  notcomicX
-  09creeps
+Members of team: Pitchfork, notcomicX, 09creeps
 
 What were working on:
 
