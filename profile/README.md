@@ -6,7 +6,6 @@ Were a group of friends who sometimes develops games together!
 🐴 The horses name is Gringolet 🐴
 
 ## Team
-Members of team 
 Pitchfork
 
 notcomicX 
