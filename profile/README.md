@@ -1,7 +1,7 @@
 # Knights of Dev
 
 ## description
-We make games :3
+Were a group of friends who sometimes develops games together! 
 
 🐴 The horses name is Gringolet 🐴
 
@@ -24,5 +24,13 @@ Working on merl for python
 
 ### notcomicX: 
 Nothing at the moment
+
+## Where to find us:
+
+### Itch:
+https://knightsofdev.itch.io/
+
+## Steam:
+comming soon :p
 
 
