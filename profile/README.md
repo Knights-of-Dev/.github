@@ -22,7 +22,8 @@ Currently learning pygame
 Working on merl for python
 
 ### notcomicX: 
-chess game on gamemaker
+chess game on gamemaker 
+
 learning pygame
 
 ## Where to find us:
