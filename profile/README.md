@@ -16,7 +16,7 @@ O9creeps
 ## What were working on:
 
 ### Pitchfork: 
-Starting development on Ghost detective game in godot
+Currently learning pygame
 
 ### O9creeps: 
 Working on merl for python
