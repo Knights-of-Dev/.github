@@ -1,7 +1,7 @@
 # Knights of Dev
 
 ## description
-Were a group of friends who sometimes develops games together! 
+We're a group of friends who sometimes develops games (and other things) together! 
 
 🐴 The horses name is Gringolet 🐴
 
@@ -19,7 +19,7 @@ O9creeps
 Currently learning pygame
 
 ### O9creeps: 
-Working on merl for python
+Working on merl for python - [click here](https://github.com/O9Creeps/merl/) to see it!
 
 ### notcomicX: 
 chess game on gamemaker 
@@ -31,7 +31,12 @@ learning pygame
 ### Itch:
 https://knightsofdev.itch.io/
 
-## Steam:
-comming soon :p
+### Steam:
+Coming soon :p
 
+### Scratch:
+O9Creeps: [O9CreeperBoi](https://scratch.mit.edu/users/O9CreeperBoi/)
 
+Pitchfork: dummy string
+
+notcomicX: dummy string
