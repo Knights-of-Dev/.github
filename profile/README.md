@@ -16,7 +16,7 @@ O9creeps
 ## What were working on:
 
 ### Pitchfork: 
-Currently learning pygame
+Currently working on PythonandDragons
 
 ### O9creeps: 
 Working on merl for python - [click here](https://github.com/O9Creeps/merl/) to see it!
