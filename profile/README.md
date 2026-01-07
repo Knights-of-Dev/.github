@@ -12,6 +12,7 @@ notcomicX
 
 O9creeps
 
+Pizzashroom
 
 ## What were working on:
 
@@ -19,7 +20,7 @@ O9creeps
 Currently working on learning godot!
 
 ### O9creeps: 
-Working on merl for python - [click here](https://github.com/O9Creeps/merl/) to see it!
+Working on darkstalker - [click here](https://github.com/Knights-of-Dev/darkstalker) to see it!
 
 ### notcomicX: 
 chess game on gamemaker 
