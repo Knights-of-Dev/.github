@@ -20,7 +20,7 @@ Pizzashroom
 Currently working on learning godot!
 
 ### O9creeps: 
-Working on darkstalker - [click here](https://github.com/Knights-of-Dev/darkstalker) to see it!
+Working on [darkstalker](https://github.com/Knights-of-Dev/darkstalker) and [truolingo](https://github.com/Knights-of-Dev/truolingo)
 
 ### notcomicX: 
 chess game on gamemaker 
