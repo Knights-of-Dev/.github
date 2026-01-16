@@ -5,7 +5,7 @@ We're a group of friends who sometimes develops games (and other things) togethe
 
 🐴 The horses name is Gringolet 🐴
 
-## Team
+## Our Team (That's Us!)
 Pitchfork
 
 notcomicX 
@@ -39,5 +39,3 @@ Coming soon :p
 O9Creeps: [O9CreeperBoi](https://scratch.mit.edu/users/O9CreeperBoi/)
 
 Pitchfork: [UnityDev225](https://scratch.mit.edu/users/UnityDev225/)
-
-notcomicX: dummy string
