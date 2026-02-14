@@ -20,7 +20,7 @@ Pizzashroom
 Currently working on learning godot!
 
 ### O9creeps: 
-Working on [darkstalker](https://github.com/Knights-of-Dev/darkstalker) and [truolingo](https://github.com/Knights-of-Dev/truolingo)
+Working on [Ming the Cowculator](https://github.com/Knights-of-Dev/Ming-the-Cowculator)
 
 ### notcomicX: 
 chess game on gamemaker 
