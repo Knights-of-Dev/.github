@@ -20,7 +20,7 @@ Pizzashroom
 Currently working on learning godot!
 
 ### O9creeps: 
-Working on [Ming the Cowculator](https://github.com/Knights-of-Dev/Ming-the-Cowculator)
+I have zero clue right now.
 
 ### notcomicX: 
 chess game on gamemaker 
