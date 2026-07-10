@@ -14,6 +14,8 @@ O9creeps
 
 Pizzashroom
 
+FoxGirlFreya
+
 ## What were working on:
 
 ### Pitchfork: 
@@ -26,6 +28,9 @@ I have zero clue right now.
 chess game on gamemaker 
 
 learning pygame
+
+### FoxGirlFreya:
+pixel art, 3d renders
 
 ## Where to find us:
 
